@@ -1,0 +1,26 @@
+_repo: The-Seven-Periods-of-English-ArchitectureDefined-and-Illustrated_38879
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sharpe, Edmund
+    birthdate: 1809
+    deathdate: 1877
+    gutenberg_agent_id: '39691'
+    url: http://www.gutenberg.org/2009/agents/39691
+description: ''
+gutenberg_issued: '2012-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38879'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Architecture -- England -- History'
+- !lcc 'NA'
+title: The Seven Periods of English Architecture Defined and Illustrated
+url: http://www.gutenberg.org/ebooks/38879
